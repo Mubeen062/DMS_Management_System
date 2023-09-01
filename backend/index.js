@@ -1,0 +1,1 @@
+const jk=document.getElementById("loop")
